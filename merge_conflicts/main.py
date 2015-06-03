@@ -1,3 +1,3 @@
 def function(bar):
-	print 'foo'
+	print 'SJ'
 	return bar
